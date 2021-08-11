@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 150ms linear;
+  font-family: sans-serif;
+}
+
+html,
+body {
+  font-size: 100%;
+}
