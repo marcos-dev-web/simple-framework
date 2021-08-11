@@ -1,0 +1,19 @@
+@import url(./reset.css);
+
+html,
+body {
+	background-color: #111;
+	color: white;
+	width: 100vw;
+	height: 100vh;
+}
+
+.main {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
+}
